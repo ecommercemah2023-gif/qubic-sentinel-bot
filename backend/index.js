@@ -4,9 +4,9 @@ const express = require('express');
 const cors = require('cors');
 
 // --- CONFIGURATION (PASTE YOUR IDs HERE) ---
-const TARGET_GUILD_ID = 'PASTE_YOUR_SERVER_ID_HERE';   // Example: "131415..."
-const TARGET_USER_ID = 'PASTE_YOUR_USER_ID_HERE';     // Example: "852369..."
-const SENTINEL_ROLE_ID = 'PASTE_SENTINEL_ROLE_ID_HERE'; // Example: "998877..."
+const TARGET_GUILD_ID = '1446567957487550527';   // Example: "131415..."
+const TARGET_USER_ID = '1208259180474138646';     // Example: "852369..."
+const SENTINEL_ROLE_ID = '1446749828594925588'; // Example: "998877..."
 
 const app = express();
 const PORT = process.env.PORT || 3000;
