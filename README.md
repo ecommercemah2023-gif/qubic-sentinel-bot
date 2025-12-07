@@ -427,67 +427,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 👥 Team
+- **Project Manager:** Mahmoud 
+- **Developers:** Rehna, Innovator
 
-**Hack the Future Hackathon Team:**
-
-- **Mahmoud** - Project Manager
-- **Precious** - Frontend Developer 
-- **Om** - Backend Lead 
-- **Sania** - Frontend/Design 
-
-
-
----
-
-## 🙏 Acknowledgments
-
-- **EasyConnect** - For the no-code automation platform
-- **Qubic** - For the blockchain infrastructure
-- **Discord.js** - For the excellent bot framework
-- **Vercel** - For frontend hosting
-- **Render** - For backend deployment
-- **Hack the Future Organizers** - For the opportunity to build this project
-
----
-
-## 📞 Support
-
-**Need Help?**
-
-- 💬 Discord: [Join our community server](https://discord.gg/UrP58saS)
-- 🐛 Issues: [GitHub Issues](https://github.com/YOUR_USERNAME/qubic-sentinel-bot/issues)
-- 📖 Documentation: [Full docs](#)
-
----
-
-## 🔗 Links
-
-- **Live Demo:** https://qubic-sentinelrcv7.vercel.app
-- **Backend API:** https://qubic-sentinel.onrender.com
-- **GitHub Repository:** https://github.com/ecommercemah2023-gif/qubic-sentinel-bot.git
-- **EasyConnect Docs:** https://www.kairos-tek.com/easyconnect
-- **Qubic Official:** https://qubic.org
-
----
-
-## 📊 Project Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/qubic-sentinel-bot?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/qubic-sentinel-bot?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/qubic-sentinel-bot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YOUR_USERNAME/qubic-sentinel-bot)
-
----
-
-<div align="center">
-
-**Built with ❤️ for the Qubic Hack the Future Hackathon**
-
-*Transforming blockchain activity into social capital, one transaction at a time.*
-
-</div>
-
-
-
-
-
+## 📄 License
+MIT
