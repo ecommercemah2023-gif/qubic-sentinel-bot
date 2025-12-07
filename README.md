@@ -138,7 +138,7 @@ Qubic Sentinel Bot transforms Discord communities by creating an automated, meri
 1. **Clone the repository**
    ```bash
    git clone https://github.com/ecommercemah2023-gif/qubic-sentinel-bot.git
-   cd qubic-sentinel-bot/frontend
+   cd qubic-sentinel-bot/sentinel-ui
    ```
 
 2. **Install dependencies**
