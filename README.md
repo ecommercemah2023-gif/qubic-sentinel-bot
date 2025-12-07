@@ -16,9 +16,7 @@ A Discord bot that automatically rewards community members for Qubic on-chain ac
 4. Run: `node index.js`
 
 ## 👥 Team
-- **Project Manager:** Mahmoud 
-- **Backend Lead:** Om
-- **Frontend/Design:** Sania
+- **Project Manager:** Mahmoud
 - **Developers:** Rehna, Innovator
 
 ## 📄 License
